@@ -1,0 +1,96 @@
+
+.container
+{
+    border: 5px solid black;
+
+}
+
+.container-fluid
+{
+    border: 0px solid black;
+}
+
+.row
+{
+    border: 0px solid blue;
+}
+
+.col 
+{
+    border: 4px solid rgb(0, 102, 128);
+    background-color: pink;
+}
+
+.col-md-5
+{
+    border: 0px solid brown;
+}
+
+.col-md-4
+{
+    border: 0px solid brown;
+}
+
+.col-md-12 
+{
+    background-image: url(images/N10Mpf.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head
+{
+    text-shadow: 5px 1px 3px black;
+}
+
+a:hover
+{
+  text-decoration: none;
+}
+
+ul
+{
+    list-style: none;
+    
+}
+
+
+
+.of 
+{
+    color: white;
+    text-align: center;
+    background-color: gray;
+    border: 3px solid blue;
+}
+
+.menu
+{
+    background-color: black;
+}
+
+.footer
+{
+    background-color: black;
+    color: white;
+    
+}
+
+.bg-d
+{
+    background-color: black;
+} 
+
+.navbar-d
+{
+    background-color: black;
+}
+
+.nav-link:hover
+{
+    background-color: blue;
+}
+
+
+
